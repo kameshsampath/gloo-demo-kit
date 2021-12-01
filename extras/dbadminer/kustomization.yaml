@@ -1,0 +1,8 @@
+namespace: gloo-system
+
+generatorOptions:
+  disableNameSuffixHash: true
+
+resources:
+  - deployment.yaml
+  - service.yaml
